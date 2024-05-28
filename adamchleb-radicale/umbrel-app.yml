@@ -23,6 +23,7 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
+  - https://www.blueonyx.it/uploads/images/Radicale/Radicale-User-List.png
 releaseNotes: >-
   Initial Release
 dependencies: []
