@@ -4,7 +4,7 @@ services:
   app_proxy:
     environment:
       APP_HOST: adamchleb-radicale_1
-      APP_PORT: 5232
+      APP_PORT: 80
 
   server:
     image: cupcakearmy/radicale:1
