@@ -1,0 +1,31 @@
+manifestVersion: 1
+id: adamchleb-radicale
+name: Radicale
+tagline: Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (contacts) server
+icon: https://www.cloudron.io/store/social-icons/org.radicale.cloudronapp2.png
+category: Media
+version: "1.0.0"
+port: 5232
+description: >-
+  - Shares calendars and contact lists through CalDAV, CardDAV and HTTP.
+  - Supports events, todos, journal entries and business cards.
+  - Works out-of-the-box, no complicated setup or configuration required.
+  - Can limit access by authentication.
+  - Can secure connections with TLS.
+  - Works with many CalDAV and CardDAV clients.
+  - Stores all data on the file system in a simple folder structure.
+  - Can be extended with plugins.
+  - Is GPLv3-licensed free software.
+developer: Kozea Community
+website: https://radicale.org/v3.html
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+releaseNotes: >-
+  Initial Release
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
